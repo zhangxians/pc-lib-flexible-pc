@@ -1,0 +1,22 @@
+{
+  "name": "zx-lib-flexible-pc",
+  "version": "1.0.0",
+  "description": "移动端适配解决方案",
+  "main": "flexible.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "适配"
+  ],
+  "author": "zhangxians",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxians/pc-lib-flexible-pc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhangxians/pc-lib-flexible-pc/issues"
+  },
+  "homepage": "https://github.com/zhangxians/pc-lib-flexible-pc#readme"
+}
