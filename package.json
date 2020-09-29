@@ -1,6 +1,6 @@
 {
   "name": "zx-lib-flexible-pc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "移动端适配解决方案",
   "main": "flexible.js",
   "scripts": {
